@@ -1,0 +1,271 @@
+[
+    {
+        "title": "US Abdominal Ultrasound",
+        "type": "Abdominal US Diagnosis",
+        "description": "(IMGUS0001): All the Abdominal Organs (NOT including the Bladder)",
+        "note": "*NPO after midnight prep",
+        "dx": ["Abdominal Pain", "Suprapubic Pain", "Abdominal Bloating", "Abdominal Pain Multiple Sites", "Weight Loss", "Transaminitis"]
+    },
+    {
+        "title": "US Abdominal Limited",
+        "type": "Abdominal US Diagnosis",
+        "description": "(IMGUS0007): RUQ Abd Organs (including Pancreas and Right Kidney)",
+        "note": "*NPO after midnight prep",
+        "dx": ["RUQ Pain","Epigastric Pain","Gallbladder Stones","Bile Duct Stones (Post cholesystectomy)","Hepatitis (Liver)","Fibrosis","Pancreatitis","Jaundice","Elevated Bilirubin","Elevated LFT","Hepatomegaly"]
+    },
+    {
+        "title": "US Abdomen Limited Spleen",
+        "type": "Abdominal US Diagnosis",
+        "description": "(IMGUS0009): Kidney and Bladder",
+        "note": "*NPO after midnight prep",
+        "dx": ["LUQ Pain","Splenomegaly","Blunt Trauma","Mononucleosis","Sickle Cell Amenia"]
+    },
+    {
+        "title": "US APPENDIX BVMG",
+        "type": "Abdominal US Diagnosis",
+        "description": "(IMGUS0046): Usually for peds. Highly difficult to image in Patient Body Habitus/Adults (Better with seen with CT)",
+        "note": "*NPO Prep if possible",
+        "dx": ["ACUTE RLQ PAIN, Elevated WBC"]
+    },
+    {
+        "title": "US Aorta BVMG 76705",
+        "type": "Abdominal US Diagnosis",
+        "description": "(IMGUS0007): Aorta Study",
+        "note": "*NPO after midnight prep",
+        "dx": ["AAA (Age, Smoker, High Cholestrol)"]
+    },
+    {
+        "title": "AAA Abdominal Aorta SCREENING ",
+        "type": "Abdominal US Diagnosis",
+        "description": "(210976709.UHA): Screening",
+        "note": "*NPO after midnight prep",
+        "dx": ["Medical Screening"]
+    },
+    {
+        "title": "US Retroperitoneal Limited BVMG 76775",
+        "type": "Abdominal US Diagnosis",
+        "description": "(IMGUS0070): Kidney and Bladder",
+        "note": "*Full Bladder 32oz Prep",
+        "dx": ["Flank Pain","Bladder Infection","Dysuria","AKI","UTI","CKD","Hematuria","Proteinuria"]
+    },
+    {
+        "title": "US Bladder",
+        "type": "Abdominal US Diagnosis",
+        "description": "(IMGUS0047): Evaluating ONLY the Bladder",
+        "note": "*Full Bladder 32oz Prep",
+        "dx": ["Bladder stone","Bladder Mass","Dysuria","Post Void Residual"]
+    },
+    {
+        "title": "US Bladder",
+        "type": "Pelvic Ultrasound Diagnosis",
+        "description": "(IMGUS0047): Evaluating ONLY the Bladder",
+        "note": "*Full Bladder 32oz Prep",
+        "dx": ["Bladder stone","Bladder Mass","Dysuria","Post Void Residual"]
+    }, 
+    {
+        "title": "US Pelvis (TA Only) BVMG 76830 ",
+        "type": "Pelvic Ultrasound Diagnosis",
+        "description": "(IMGUS0055): Pelvic Ultrasound without Transvaginal for patients under 18yo and patients NOT sexually active",
+        "note": "*Full Bladder 32oz Prep",
+        "dx": ["Pelvic Pain","Fibroids","Amenorrhea","Menorrhagia","Menometrorrhagia","Irregular Menses","Cramping","AUB"]
+    },
+    {
+        "title": "US Pelvis Complete (TA and TV) BVMG 76856 76830 ",
+        "type": "Pelvic Ultrasound Diagnosis",
+        "description": "(IMGUS0056): Pelvic Ultrasound for adults 18yo and older and sexually active",
+        "note": "*Full Bladder 32oz Prep",
+        "dx": ["IUD","Amenorrhea","Menorrhagia","Menometrorrhagia","Irregular Menses","PMB","AUB","Cramping","Pelvic Pain","Fibroids"]
+    },
+    {
+        "title": "US Thyroid BVMG 76536",
+        "type": "Small Parts US Diagnosis",
+        "description": "(IMGUS0073)",
+        "note": "",
+        "dx": ["Hypothyroid","Hyperthyroid","Goiter","Hashimoto","Nodules","Graves Disease"]
+    },
+    {
+        "title": "US SOFT TISSUE HEAD/NECK BVMG ",
+        "type": "Small Parts US Diagnosis",
+        "description": "(IMGUS0035) Lump @ area of Neck or Head",
+        "note": "",
+        "dx": ["Lymphadenopathy","Superficial Palpable Lump"]
+    },
+    {
+        "title": "US Scrotum BVMG 76870 ",
+        "type": "Small Parts US Diagnosis",
+        "description": "(IMGUS0071)",
+        "note": "",
+        "dx": ["Testicular Pain","Torsion","Orchitis","Epididymitis","Varicocele","Hydrocele"]
+    },
+    {
+        "title": "US Axilla Left ",
+        "type": "Small Parts US Diagnosis",
+        "description": "(IMGBI0055): Left Underarm",
+        "note": "",
+        "dx": ["LEFT underarm lump","Lymphadenopathy"]
+    },
+    {
+        "title": "US Axilla Right ",
+        "type": "Small Parts US Diagnosis",
+        "description": "(IMGBI0056): Right Underarm",
+        "note": "",
+        "dx": ["RIGHT underarm lump","Lymphadenopathy"]
+    },
+    {
+        "title": "US Breast Limited Bilateral ",
+        "type": "Small Parts US Diagnosis",
+        "description": "(IMGBI0057): Complete Bilateral Breast Study",
+        "note": "",
+        "dx": ["Mastitis","Bilateral Breast Pain"]
+    },
+    {
+        "title": "US Breast Limited Left ",
+        "type": "Small Parts US Diagnosis",
+        "description": "(IMGBI0060): Left Breast Study",
+        "note": "",
+        "dx": ["Focal Left Breast Pain"]
+    },
+    {
+        "title": "US Breast Limited Right ",
+        "type": "Small Parts US Diagnosis",
+        "description": "(IMGBI0061): Right Breast Study",
+        "note": "",
+        "dx": ["Focal Right Breast Pain"]
+    }, 
+    {
+        "title": "US Extremity Lower Soft Tissue Bilateral",
+        "type": "Soft Tissue US Diagnosis",
+        "description": "(IMGUS0230)",
+        "note": "",
+        "dx": ["BILATERAL Inguinal Hernia"]
+    },
+    {
+        "title": "US Extremity Lower Soft Tissue Left",
+        "type": "Soft Tissue US Diagnosis",
+        "description": "(IMGUS0109)",
+        "note": "",
+        "dx": ["LEFT Inguinal hernia","Left Groin Pain","Left Leg lump ","Left Pop Fossa Bakers Cyst"]
+    },
+    {
+        "title": "US Extremity Lower Soft Tissue Right",
+        "type": "Soft Tissue US Diagnosis",
+        "description": "(IMGUS0110)",
+        "note": "",
+        "dx": ["RIGHT Inguinal hernia","Right Groin Pain","Right Leg lump ","Right Pop Fossa Bakers Cyst"]
+    },
+    {
+        "title": "US Extremity Upper Soft Tissue Bilateral",
+        "type": "Soft Tissue US Diagnosis",
+        "description": "(IMGUS0231)",
+        "note": "",
+        "dx": ["Bilateral Axilla Lymphadenopathy"]
+    },{
+        "title": "US Extremity Upper Soft Tissue Left",
+        "type": "Soft Tissue US Diagnosis",
+        "description": "(IMGUS0111)",
+        "note": "",
+        "dx": ["Localized Lump of the Left ","Arm","Shoulder","Elbow","Forearm","Wrist","Hand","Finger"]
+    },{
+        "title": "US Extremity Upper Soft Tissue Right ",
+        "type": "Soft Tissue US Diagnosis",
+        "description": "(IMGUS0112)",
+        "note": "",
+        "dx": ["Localized Lump of the Right ","Arm","Shoulder","Elbow","Forearm","Wrist","Hand","Finger"]
+    },{
+        "title": "US Axilla Left",
+        "type": "Soft Tissue US Diagnosis",
+        "description": "(IMGBI0055)",
+        "note": "",
+        "dx": ["Left Axilla lump","Lymphadenopathy"]
+    },{
+        "title": "US Axilla Right",
+        "type": "Soft Tissue US Diagnosis",
+        "description": "(IMGBI0056)",
+        "note": "",
+        "dx": ["Right Axilla lump","Lymphadenopathy"]
+    },{
+        "title": "US Carotid Bilat BVMG 93880 ",
+        "type": "Vascular US Diagnosis",
+        "description": "(IMGUS0019)",
+        "note": "*Do not use Carotid Doppler Limited Left or Right",
+        "dx": ["Stenosis","Bruit","Vertigo","Syncope"]
+    },{
+        "title": "US LEG Venous Bilateral BVMG 93970 ",
+        "type": "Vascular US Diagnosis",
+        "description": "(IMGUS0040)",
+        "note": "",
+        "dx": ["Bilateral Leg Pain","Swelling","SOB","Leg cramping","DVT","Stroke"]
+    },{
+        "title": "US Lower Extremity Deep Vein Thrombosis Unilateral Left ",
+        "type": "Vascular US Diagnosis",
+        "description": "(IMGUS0041)",
+        "note": "",
+        "dx": ["Left Leg Pain","Left Leg cramping","Left Leg Swelling ","Hx of DVT"]
+    },{
+        "title": "US Lower Extremity Deep Vein Thrombosis Unilateral Right ",
+        "type": "Vascular US Diagnosis",
+        "description": "(IMGUS0042)",
+        "note": "",
+        "dx": ["Right Leg Pain","Right Leg cramping","Right Leg Swelling ","Hx of DVT"]
+    },{
+        "title": "US Upper Extremity Veins Deep Veins Thrombosis Bilateral",
+        "type": "Vascular US Diagnosis",
+        "description": "(IMGUS0076)",
+        "note": "",
+        "dx": ["SOB ","Bilateral Arm Swelling ","Bilateral Arm Pain to r\/o DVT"]
+    },{
+        "title": "US Upper Extremity Veins Deep Veins Thrombosis Left ",
+        "type": "Vascular US Diagnosis",
+        "description": "(IMGUS0077)",
+        "note": "",
+        "dx": ["Left Arm Swelling","Left Arm Pain to r\/o DVT"]
+    },{
+        "title": "US Upper Extremity Veins Deep Veins Thrombosis Right ",
+        "type": "Vascular US Diagnosis",
+        "description": "(IMGUS0078)",
+        "note": "",
+        "dx": ["Right Arm Swelling","Right Arm Pain to r\/o DVT"]
+    },{
+        "title": "US OB < 14 WKS BVMG 76801 ",
+        "type": "OB Ultrasound Diagnosis",
+        "description": "(IMGUS0059): First Trimester Pregnancy",
+        "note": "*Full Bladder 32oz Prep",
+        "dx": ["Fetal Viability","Ectopic","Vaginal Bleeding","Cramping","Syncope"]
+    },{
+        "title": "76802 (aka VC OB LESS/14WKS, ADDTL GEST) ",
+        "type": "OB Ultrasound Diagnosis",
+        "description": "(230976802.UHA): First Trimester Pregnancy Additional Gestation (Twin)",
+        "note": "",
+        "dx": ["Twin add on charge"]
+    },{
+        "title": "US OB (aka US Pregnancy Limited) ",
+        "type": "OB Ultrasound Diagnosis",
+        "description": "(IMGUS0159): Limited OB of suspected component ",
+        "note": "",
+        "dx": ["AFI","Placenta Location","Cervical Length","Fetal Position","FHR","Gestational Dates"]
+    },{
+        "title": "US OB (aka US Pregnancy Follow Up) ",
+        "type": "OB Ultrasound Diagnosis",
+        "description": "(IMGUS0156): Follow Up after a suspected abnormality on a previous scan",
+        "note": "",
+        "dx": ["Follow Up: ","AFI","Placenta Location","Cervical Length","Fetal Position","FHR","Gestational Dates"]
+    },{
+        "title": "US OB (aka US Pregnancy 2nd/3rd Tri) ",
+        "type": "OB Ultrasound Diagnosis",
+        "description": "IMGUS0157: Detailed OB study for 2nd Trimester (between 18-22 weeks) ",
+        "note": "",
+        "dx": ["OB 20 Weeks Anatomy"]
+    },{
+        "title": "US US Pregnancy 2nd/3rd Trimester Each Additional Gestation ",
+        "type": "OB Ultrasound Diagnosis",
+        "description": "(IMGUS0155)",
+        "note": "",
+        "dx": ["Additional Twin 2nd/3rd Add on"]
+    },{
+        "title": "US PREGNANCY UMBILICAL ARTERY DOPPLER ",
+        "type": "OB Ultrasound Diagnosis",
+        "description": "(IMGUS0161): Suspected IUGR, Suspecte/History Preeclampsia, EFW less than 10%",
+        "note": "",
+        "dx": ["IUGR","EFW ","Preeclampsia"]
+    }
+]
