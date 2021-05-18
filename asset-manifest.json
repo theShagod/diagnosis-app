@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diagnosis-app/static/css/main.33a50aa4.chunk.css",
+    "main.js": "/diagnosis-app/static/js/main.086779f2.chunk.js",
+    "main.js.map": "/diagnosis-app/static/js/main.086779f2.chunk.js.map",
+    "runtime-main.js": "/diagnosis-app/static/js/runtime-main.23646481.js",
+    "runtime-main.js.map": "/diagnosis-app/static/js/runtime-main.23646481.js.map",
+    "static/js/2.d6806e92.chunk.js": "/diagnosis-app/static/js/2.d6806e92.chunk.js",
+    "static/js/2.d6806e92.chunk.js.map": "/diagnosis-app/static/js/2.d6806e92.chunk.js.map",
+    "static/js/3.4ad3b73f.chunk.js": "/diagnosis-app/static/js/3.4ad3b73f.chunk.js",
+    "static/js/3.4ad3b73f.chunk.js.map": "/diagnosis-app/static/js/3.4ad3b73f.chunk.js.map",
+    "index.html": "/diagnosis-app/index.html",
+    "static/css/main.33a50aa4.chunk.css.map": "/diagnosis-app/static/css/main.33a50aa4.chunk.css.map",
+    "static/js/2.d6806e92.chunk.js.LICENSE.txt": "/diagnosis-app/static/js/2.d6806e92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23646481.js",
+    "static/js/2.d6806e92.chunk.js",
+    "static/css/main.33a50aa4.chunk.css",
+    "static/js/main.086779f2.chunk.js"
+  ]
+}
